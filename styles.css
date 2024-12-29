@@ -2,7 +2,7 @@ body {
     background-image: url('https://media2.giphy.com/media/MyWrJJIdAfoJuEPlLP/giphy.gif');
     text-align: center;
     margin: 0;
-    padding: 0;
+    padding: 0 0 2rem 0;
     background-attachment: fixed;
     background-size: cover;
 }
@@ -74,7 +74,7 @@ footer {
     background-image: url('https://cdn.pixabay.com/photo/2016/11/18/15/46/birthday-1835443_1280.jpg');
 }
 #nine {
-    background-image: url('https://th.bing.com/th/id/R.40a8c4ff1a9c0acd268f7a4150457def?rik=AoGNBzrA0i4p%2bQ&riu=http%3a%2f%2fi.giphy.com%2fCJT8RmbIVXKKI.gif&ehk=SO%2b1C%2f0DUkPLrpR4401xwtb4CrcQXGpfd317PYa4CMU%3d&risl=&pid=ImgRaw&r=0');
+    background-image: url('https://data.photofunky.net/output/image/9/4/e/0/94e04a/photofunky.gif');
 }
 
 
